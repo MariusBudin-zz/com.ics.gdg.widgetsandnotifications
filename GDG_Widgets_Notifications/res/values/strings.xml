@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">GDG Widgets &amp; Notifications</string>
+    <string name="title_section1">Widgets</string>
+    <string name="title_section2">Notifications</string>
+    <string name="title_section3">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Widgets &amp; Notifications</string>
+
+</resources>

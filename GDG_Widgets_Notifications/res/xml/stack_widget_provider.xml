@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:minWidth="220dp"
+  android:minHeight="220dp"
+  android:updatePeriodMillis="1800000"
+  android:initialLayout="@layout/stack_widget_layout"
+  android:autoAdvanceViewId="@id/stackWidgetView"
+  android:previewImage="@drawable/ic_launcher">
+</appwidget-provider>
